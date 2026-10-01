@@ -1,0 +1,405 @@
+{
+  "members": [
+    {
+      "_id": "674f3001a1b2c3d4e5f60101",
+      "memberCode": "APX-1001",
+      "fullName": "David Miller",
+      "email": "david.miller@example.com",
+      "phone": "+1 (555) 789-0123",
+      "gender": "Male",
+      "planId": "674f2001a1b2c3d4e5f60011",
+      "planName": "Quarterly Strength",
+      "startDate": "2026-09-11",
+      "expiryDate": "2026-11-30",
+      "status": "active",
+      "trainerId": "674f1001a1b2c3d4e5f60001",
+      "trainerName": "Alex Rivera",
+      "emergencyContact": {
+        "name": "Rachel Miller",
+        "phone": "+1 (555) 789-9999",
+        "relation": "Spouse"
+      },
+      "lockerNumber": "L-14",
+      "notes": "Focusing on 500lb deadlift milestone; training 4x weekly.",
+      "createdAt": "2026-09-11T09:00:00.000Z",
+      "updatedAt": "2026-09-29T10:15:00.000Z"
+    },
+    {
+      "_id": "674f3001a1b2c3d4e5f60102",
+      "memberCode": "APX-1002",
+      "fullName": "Emma Watson",
+      "email": "emma.watson@example.com",
+      "phone": "+1 (555) 890-1234",
+      "gender": "Female",
+      "planId": "674f2001a1b2c3d4e5f60012",
+      "planName": "Annual VIP Elite",
+      "startDate": "2026-08-17",
+      "expiryDate": "2027-03-30",
+      "status": "active",
+      "trainerId": "674f1001a1b2c3d4e5f60002",
+      "trainerName": "Sarah Chen",
+      "emergencyContact": {
+        "name": "Thomas Watson",
+        "phone": "+1 (555) 890-9999",
+        "relation": "Brother"
+      },
+      "lockerNumber": "L-03",
+      "notes": "Morning routine athlete; incorporates cold plunge after sessions.",
+      "createdAt": "2026-08-17T07:30:00.000Z",
+      "updatedAt": "2026-10-01T08:00:00.000Z"
+    },
+    {
+      "_id": "674f3001a1b2c3d4e5f60103",
+      "memberCode": "APX-1003",
+      "fullName": "James Sterling",
+      "email": "j.sterling@example.com",
+      "phone": "+1 (555) 901-2345",
+      "gender": "Male",
+      "planId": "674f2001a1b2c3d4e5f60010",
+      "planName": "Monthly Standard",
+      "startDate": "2026-09-11",
+      "expiryDate": "2026-10-04",
+      "status": "expiring_soon",
+      "emergencyContact": {
+        "name": "Claire Sterling",
+        "phone": "+1 (555) 901-8888",
+        "relation": "Sister"
+      },
+      "lockerNumber": "L-22",
+      "notes": "Renewal notice sent via SMS; considers upgrading to Quarterly.",
+      "createdAt": "2026-09-11T12:00:00.000Z",
+      "updatedAt": "2026-10-01T09:00:00.000Z"
+    },
+    {
+      "_id": "674f3001a1b2c3d4e5f60104",
+      "memberCode": "APX-1004",
+      "fullName": "Sophia Martinez",
+      "email": "sophia.m@example.com",
+      "phone": "+1 (555) 012-3456",
+      "gender": "Female",
+      "planId": "674f2001a1b2c3d4e5f60010",
+      "planName": "Monthly Standard",
+      "startDate": "2026-08-17",
+      "expiryDate": "2026-09-26",
+      "status": "expired",
+      "trainerId": "674f1001a1b2c3d4e5f60004",
+      "trainerName": "Elena Rostova",
+      "emergencyContact": {
+        "name": "Carlos Martinez",
+        "phone": "+1 (555) 012-7777",
+        "relation": "Father"
+      },
+      "notes": "Expired 5 days ago. Needs follow-up call regarding seasonal break.",
+      "createdAt": "2026-08-17T14:00:00.000Z",
+      "updatedAt": "2026-10-01T10:00:00.000Z"
+    },
+    {
+      "_id": "674f3001a1b2c3d4e5f60105",
+      "memberCode": "APX-1005",
+      "fullName": "Lucas Bennett",
+      "email": "l.bennett@example.com",
+      "phone": "+1 (555) 123-9876",
+      "gender": "Male",
+      "planId": "674f2001a1b2c3d4e5f60011",
+      "planName": "Quarterly Strength",
+      "startDate": "2026-09-21",
+      "expiryDate": "2026-10-26",
+      "status": "active",
+      "trainerId": "674f1001a1b2c3d4e5f60003",
+      "trainerName": "Marcus Vance",
+      "emergencyContact": {
+        "name": "Andrea Bennett",
+        "phone": "+1 (555) 123-5555",
+        "relation": "Mother"
+      },
+      "lockerNumber": "L-09",
+      "notes": "Post-injury rehabilitation; avoiding overhead squats.",
+      "createdAt": "2026-09-21T16:30:00.000Z",
+      "updatedAt": "2026-09-29T14:00:00.000Z"
+    },
+    {
+      "_id": "674f3001a1b2c3d4e5f60106",
+      "memberCode": "APX-1006",
+      "fullName": "Maya Patel",
+      "email": "maya.patel@example.com",
+      "phone": "+1 (555) 234-5678",
+      "gender": "Female",
+      "planId": "674f2001a1b2c3d4e5f60013",
+      "planName": "Student & Youth Special",
+      "startDate": "2026-09-11",
+      "expiryDate": "2026-10-06",
+      "status": "expiring_soon",
+      "emergencyContact": {
+        "name": "Sunil Patel",
+        "phone": "+1 (555) 234-1111",
+        "relation": "Father"
+      },
+      "notes": "University swim team member training during off-hours.",
+      "createdAt": "2026-09-11T10:00:00.000Z",
+      "updatedAt": "2026-10-01T07:15:00.000Z"
+    },
+    {
+      "_id": "674f3001a1b2c3d4e5f60107",
+      "memberCode": "APX-1007",
+      "fullName": "Julian Hayes",
+      "email": "j.hayes@example.com",
+      "phone": "+1 (555) 345-9012",
+      "gender": "Male",
+      "planId": "674f2001a1b2c3d4e5f60012",
+      "planName": "Annual VIP Elite",
+      "startDate": "2026-08-17",
+      "expiryDate": "2027-03-30",
+      "status": "active",
+      "trainerId": "674f1001a1b2c3d4e5f60001",
+      "trainerName": "Alex Rivera",
+      "emergencyContact": {
+        "name": "Laura Hayes",
+        "phone": "+1 (555) 345-8888",
+        "relation": "Spouse"
+      },
+      "lockerNumber": "L-01",
+      "notes": "VIP executive member; early bird 6:00 AM lifter.",
+      "createdAt": "2026-08-17T06:00:00.000Z",
+      "updatedAt": "2026-10-01T06:30:00.000Z"
+    }
+  ],
+  "plans": [
+    {
+      "_id": "674f2001a1b2c3d4e5f60010",
+      "name": "Monthly Standard",
+      "audience": "For consistent gym-goers",
+      "price": 55,
+      "durationMonths": 1,
+      "features": [
+        "Unrestricted gym floor access",
+        "Locker room & power showers",
+        "Standard equipment & turf area",
+        "Mobile check-in pass"
+      ],
+      "accessHours": "05:00 - 23:00 Daily",
+      "isPopular": false,
+      "isActive": true,
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "674f2001a1b2c3d4e5f60011",
+      "name": "Quarterly Strength",
+      "audience": "For committed progression",
+      "price": 150,
+      "durationMonths": 3,
+      "features": [
+        "Everything in Standard plan",
+        "1 complimentary trainer assessment",
+        "Body composition scan every 30 days",
+        "Sauna & cold plunge access",
+        "10% off pro-shop supplements"
+      ],
+      "accessHours": "24/7 Keycard Access",
+      "isPopular": true,
+      "isActive": true,
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "674f2001a1b2c3d4e5f60012",
+      "name": "Annual VIP Elite",
+      "audience": "For dedicated athletes",
+      "price": 520,
+      "durationMonths": 12,
+      "features": [
+        "All gym & recovery amenities 24/7",
+        "Permanent private locker reserved",
+        "Monthly 1-on-1 personal training session",
+        "Unlimited guest passes (2 per month)",
+        "Free laundry service for gym attire",
+        "Access to lifting platform reservations"
+      ],
+      "accessHours": "24/7 All Access + Reserved Bay",
+      "isPopular": false,
+      "isActive": true,
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "674f2001a1b2c3d4e5f60013",
+      "name": "Student & Youth Special",
+      "audience": "For accredited students",
+      "price": 39,
+      "durationMonths": 1,
+      "features": [
+        "Off-peak floor access (08:00 - 16:00)",
+        "Full free-weight & cardio equipment",
+        "Digital workout log support",
+        "Valid student ID required"
+      ],
+      "accessHours": "08:00 - 16:00 Weekdays, All-day Weekends",
+      "isPopular": false,
+      "isActive": true,
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    }
+  ],
+  "trainers": [
+    {
+      "_id": "674f1001a1b2c3d4e5f60001",
+      "name": "Alex Rivera",
+      "specialty": "Hypertrophy & Powerlifting",
+      "phone": "+1 (555) 234-8901",
+      "email": "alex.rivera@apexiron.com",
+      "experienceYears": 7,
+      "activeClients": 14,
+      "rating": 4.9,
+      "bio": "Former collegiate powerlifting coach specializing in barbell biomechanics and progressive overload periodization.",
+      "avatarColor": "bg-amber-600",
+      "createdAt": "2025-01-10T08:00:00.000Z"
+    },
+    {
+      "_id": "674f1001a1b2c3d4e5f60002",
+      "name": "Sarah Chen",
+      "specialty": "Functional Mobility & HIIT",
+      "phone": "+1 (555) 345-6789",
+      "email": "sarah.chen@apexiron.com",
+      "experienceYears": 5,
+      "activeClients": 18,
+      "rating": 4.95,
+      "bio": "Certified CSCS & functional movement specialist focusing on joint longevity, agility, and high-intensity conditioning.",
+      "avatarColor": "bg-emerald-600",
+      "createdAt": "2025-01-12T09:30:00.000Z"
+    },
+    {
+      "_id": "674f1001a1b2c3d4e5f60003",
+      "name": "Marcus Vance",
+      "specialty": "Body Recomposition & Nutrition",
+      "phone": "+1 (555) 456-7890",
+      "email": "marcus.vance@apexiron.com",
+      "experienceYears": 9,
+      "activeClients": 16,
+      "rating": 4.88,
+      "bio": "Sports nutritionist and hypertrophy coach dedicated to evidence-based macro tracking and sustainable muscle growth.",
+      "avatarColor": "bg-blue-600",
+      "createdAt": "2025-01-15T11:00:00.000Z"
+    },
+    {
+      "_id": "674f1001a1b2c3d4e5f60004",
+      "name": "Elena Rostova",
+      "specialty": "Olympic Weightlifting & Core",
+      "phone": "+1 (555) 567-8901",
+      "email": "elena.rostova@apexiron.com",
+      "experienceYears": 6,
+      "activeClients": 11,
+      "rating": 4.92,
+      "bio": "USA Weightlifting Level 2 certified coach specializing in clean & jerk, snatch technique, and explosive posterior chain power.",
+      "avatarColor": "bg-purple-600",
+      "createdAt": "2025-02-01T10:00:00.000Z"
+    }
+  ],
+  "attendance": [
+    {
+      "_id": "674f4001a1b2c3d4e5f60201",
+      "memberId": "674f3001a1b2c3d4e5f60102",
+      "memberCode": "APX-1002",
+      "memberName": "Emma Watson",
+      "planName": "Annual VIP Elite",
+      "checkInTime": "2026-10-01T06:15:00.000Z",
+      "checkOutTime": "2026-10-01T07:45:00.000Z",
+      "status": "Completed",
+      "date": "2026-10-01",
+      "method": "Barcode/ID",
+      "createdAt": "2026-10-01T06:15:00.000Z"
+    },
+    {
+      "_id": "674f4001a1b2c3d4e5f60202",
+      "memberId": "674f3001a1b2c3d4e5f60107",
+      "memberCode": "APX-1007",
+      "memberName": "Julian Hayes",
+      "planName": "Annual VIP Elite",
+      "checkInTime": "2026-10-01T06:30:00.000Z",
+      "checkOutTime": "2026-10-01T08:10:00.000Z",
+      "status": "Completed",
+      "date": "2026-10-01",
+      "method": "Barcode/ID",
+      "createdAt": "2026-10-01T06:30:00.000Z"
+    },
+    {
+      "_id": "674f4001a1b2c3d4e5f60203",
+      "memberId": "674f3001a1b2c3d4e5f60101",
+      "memberCode": "APX-1001",
+      "memberName": "David Miller",
+      "planName": "Quarterly Strength",
+      "checkInTime": "2026-10-01T08:05:00.000Z",
+      "checkOutTime": null,
+      "status": "Checked In",
+      "date": "2026-10-01",
+      "method": "Barcode/ID",
+      "createdAt": "2026-10-01T08:05:00.000Z"
+    },
+    {
+      "_id": "674f4001a1b2c3d4e5f60204",
+      "memberId": "674f3001a1b2c3d4e5f60105",
+      "memberCode": "APX-1005",
+      "memberName": "Lucas Bennett",
+      "planName": "Quarterly Strength",
+      "checkInTime": "2026-10-01T08:45:00.000Z",
+      "checkOutTime": null,
+      "status": "Checked In",
+      "date": "2026-10-01",
+      "method": "Manual",
+      "createdAt": "2026-10-01T08:45:00.000Z"
+    }
+  ],
+  "payments": [
+    {
+      "_id": "674f5001a1b2c3d4e5f60301",
+      "invoiceNumber": "INV-2026-001",
+      "memberId": "674f3001a1b2c3d4e5f60102",
+      "memberName": "Emma Watson",
+      "planId": "674f2001a1b2c3d4e5f60012",
+      "planName": "Annual VIP Elite",
+      "amount": 520,
+      "paymentMethod": "Credit Card",
+      "status": "Paid",
+      "paymentDate": "2026-08-17",
+      "receiptNotes": "Annual VIP Elite upfront payment with complementary locker L-03.",
+      "createdAt": "2026-08-17T07:35:00.000Z"
+    },
+    {
+      "_id": "674f5001a1b2c3d4e5f60302",
+      "invoiceNumber": "INV-2026-002",
+      "memberId": "674f3001a1b2c3d4e5f60107",
+      "memberName": "Julian Hayes",
+      "planId": "674f2001a1b2c3d4e5f60012",
+      "planName": "Annual VIP Elite",
+      "amount": 520,
+      "paymentMethod": "Bank Transfer",
+      "status": "Paid",
+      "paymentDate": "2026-08-17",
+      "receiptNotes": "Executive corporate membership invoice.",
+      "createdAt": "2026-08-17T06:10:00.000Z"
+    },
+    {
+      "_id": "674f5001a1b2c3d4e5f60303",
+      "invoiceNumber": "INV-2026-003",
+      "memberId": "674f3001a1b2c3d4e5f60101",
+      "memberName": "David Miller",
+      "planId": "674f2001a1b2c3d4e5f60011",
+      "planName": "Quarterly Strength",
+      "amount": 150,
+      "paymentMethod": "Debit Card",
+      "status": "Paid",
+      "paymentDate": "2026-09-11",
+      "receiptNotes": "Quarterly Strength tier renewal.",
+      "createdAt": "2026-09-11T09:10:00.000Z"
+    },
+    {
+      "_id": "674f5001a1b2c3d4e5f60304",
+      "invoiceNumber": "INV-2026-004",
+      "memberId": "674f3001a1b2c3d4e5f60105",
+      "memberName": "Lucas Bennett",
+      "planId": "674f2001a1b2c3d4e5f60011",
+      "planName": "Quarterly Strength",
+      "amount": 150,
+      "paymentMethod": "UPI/Online",
+      "status": "Paid",
+      "paymentDate": "2026-09-21",
+      "receiptNotes": "Quarterly registration + fitness assessment.",
+      "createdAt": "2026-09-21T16:35:00.000Z"
+    }
+  ]
+}
