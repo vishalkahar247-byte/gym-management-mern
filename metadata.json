@@ -2,5 +2,7 @@
   "name": "ApexIron Gym Manager",
   "description": "Full-stack MERN gym management application for members, subscriptions, attendance tracking, trainers, and billing.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
