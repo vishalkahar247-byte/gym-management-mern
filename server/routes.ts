@@ -1,5 +1,7 @@
-import { Router, Request, Response } from 'express';
-import { db, IMember, IAttendance, IPayment } from './db.ts';
+import { Router } from 'express';
+import type { Request, Response } from 'express';
+import { db } from './db.ts';
+import type { IMember, IAttendance, IPayment } from './db.ts';
 
 export const apiRouter = Router();
 
